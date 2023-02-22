@@ -1,0 +1,65 @@
+#bigb{
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    background-color: rgb(59, 156, 221);
+    border-radius: 0.75%;
+
+}
+#header {
+    size: 20px;
+    text-align: center;
+}
+
+#name{
+    margin-left: 2%;
+    margin-bottom: 1%;
+}
+
+#nameb{
+    margin-left: 8%;
+    margin-right: 8%;
+    width: 80%;
+    padding: 5px;
+}
+
+#sb{
+    margin-left: 8%;
+    margin-right: 8%;
+    width: 82.5%;
+    padding: 5px;
+}
+
+#DateInput{
+    margin-left: 8%;
+    margin-right: 8%;
+    width: 80.5%;
+    padding: 5px;
+}
+
+#AddB{
+    margin-left: 13%;
+    margin-right: 10%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    width: 75%;
+    padding: 5px;
+    background-color: rgb(93, 98, 182);
+    color: rgb(241, 241, 241);
+
+}
+
+#Tab{
+    margin-top: 2%;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th{
+    background-color: rgb(108, 79, 134);
+    color: aliceblue;
+}
